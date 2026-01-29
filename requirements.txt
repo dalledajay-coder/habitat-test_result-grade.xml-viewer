@@ -1,0 +1,5 @@
+# XML Test Viewer Requirements
+# tkinter is included with Python standard library
+
+# For building Windows executable
+pyinstaller>=6.0.0
